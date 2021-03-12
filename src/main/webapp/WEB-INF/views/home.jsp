@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 			<h1> Hema DEVOPS2</h1>
 			<h1> Mohanraj Testing the commit message twice</h1>
-			<h2> Raghu test commit </h2>
+			<h2> Prashanth commit msg </h2>
 			<p>modified<p/>
 
 				<div>
